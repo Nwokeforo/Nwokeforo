@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**Nwokeforo/nwokeforo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**I'm Daniel** i'm learning coding
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
